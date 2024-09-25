@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 82C6-DE6D
+
+ Directory of C:\VGI\DevRefreshers\Git\MyGitFolderPC
+
+09/24/2024  11:15 PM    <DIR>          .
+09/24/2024  11:15 PM    <DIR>          ..
+09/24/2024  11:15 PM                 0 test1PC.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  104,331,747,328 bytes free
